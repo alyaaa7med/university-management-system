@@ -2,7 +2,7 @@
 It is a simple project created to include most of what i have learned about ```Object Oriented Programming ```  using ```C#``` as the programming language.
 
 # UML Diagram    
-<img src="_oop_.drawio .png">
+<img src="FacultyManagmentSystem.png">
 
 # OOP Concepts Included 
 
