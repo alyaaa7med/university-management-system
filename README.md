@@ -18,19 +18,18 @@ It is a simple project created to include most of what i have learned about ```O
 |**Polymorphism**      |A variable of a supertype can refer to a subtype object. we create `Professor` object and assign its reference to a `User` variable (check the main method )|
 |**Association**       |General relationship: `student take course` is represented by `addcourse(course)` function in `Student` and `addstudent(student)` in `Course` class |
 |**Composition**       |Whole-part strong ownership relationship: `Faculty consists of at most 5 Departments` is represented by `add_department(department)` function in `Faculty` class| 
-|**this**              |The this reference refers to class’s `hidden data fields` in the `constructors` and refers to the object itself so we can use parent `methods` in the child class| 
+|**this  keyword**              |The this reference refers to class’s `hidden data fields` in the `constructors` and refers to the object itself so we can use parent `methods` in the child class| 
 |**Dynamic Binding**   |A method implemented in several classes along the inheritance chain C# decides which method is invoked at runtime: `login(user_name,password)` in `User` and all his children classes `Professor` , `Manager` , `Student` |
 |**Generic Function**  |`GenericFunction(user)` method in `User` class defines a variable with a supertype, which can accept an object of any subtype , we make `explicit casting` for the object by the help of `is` operator |
 |**Interface**         |`IDisplayable` interface represents a common behavior (Displaying) for related or unrelated classes , `Faculty` class implements it |
 |**ICloneable**        |Every class implements the IClonable interface implements `Clone` method , for `shallow and deep copy` |
 
-```
-There were examples from the whole project.
-```
+```There were examples from the whole project.```
+
 # Recommendation 
 I highly recommend the reference  
 **INTRODUCTION TO JAVA PROGRAMMING** ,
-chapters: **9,10,11,12,13** for learning **OOP**. They are very helpful.
+chapters: **9,10,11,12,13** for learning **OOP Concepts**. They are very helpful and you can apply using different programming language from Java .
 
 
 # Installation and Run
